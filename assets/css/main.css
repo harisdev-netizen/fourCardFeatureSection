@@ -1,0 +1,201 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,600&display=swap");
+
+.my-website {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-website .section {
+  background-color: #fafafa;
+  width: 1440px;
+  height: 922px;
+  position: relative;
+}
+
+.my-website .container {
+  position: absolute;
+  width: 540px;
+  height: 168px;
+  top: 80px;
+  left: 450px;
+}
+
+.my-website .wrapper {
+  position: absolute;
+  width: 444px;
+  height: 102px;
+  top: 0;
+  left: 48px;
+  overflow: hidden;
+}
+
+.my-website .element {
+  position: relative;
+  height: 105px;
+  top: -1px;
+}
+
+.my-website .title1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #4c4f62;
+  font-size: 36px;
+  letter-spacing: 0.25px;
+  line-height: normal;
+}
+
+.my-website .title2 {
+  position: absolute;
+  top: 51px;
+  left: 2px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #4c4f62;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  line-height: normal;
+}
+
+.my-website .description {
+  position: absolute;
+  width: 540px;
+  top: 117px;
+  left: 0;
+  opacity: 0.5;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #4c4f62;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 25px;
+}
+
+.my-website .container2 {
+  position: absolute;
+  width: 1110px;
+  height: 530px;
+  top: 312px;
+  left: 165px;
+}
+
+.my-website .box {
+  position: absolute;
+  width: 350px;
+  height: 250px;
+  top: 0;
+  left: 380px;
+}
+
+.my-website .overlay {
+  position: relative;
+  width: 388px;
+  height: 288px;
+  top: -4px;
+  left: -19px;
+  background-image: url(/assets/images/rectangle-copy1.svg);
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.my-website .text-box {
+  position: absolute;
+  top: 35px;
+  left: 51px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #4c4f62;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.my-website .paragraph {
+  position: absolute;
+  width: 286px;
+  top: 71px;
+  left: 51px;
+  opacity: 0.5;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #4c4f62;
+  font-size: 13px;
+  letter-spacing: 0.09px;
+  line-height: 23px;
+}
+
+.my-website .imgage {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 158px;
+  left: 273px;
+}
+
+.my-website .box2 {
+  position: absolute;
+  width: 350px;
+  height: 250px;
+  top: 280px;
+  left: 380px;
+}
+
+.my-website .overlay2 {
+  position: relative;
+  width: 388px;
+  height: 288px;
+  top: 8px;
+  left: -19px;
+  background-image: url(/assets/images/rectangle-copy2.svg);
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.my-website .box3 {
+  position: absolute;
+  width: 350px;
+  height: 250px;
+  top: 140px;
+  left: 0;
+}
+
+.my-website .overlay3 {
+  position: relative;
+  width: 388px;
+  height: 288px;
+  top: -4px;
+  left: -37px;
+  background-image: url(/assets/images/rectangle-copy3.svg);
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.my-website .box4 {
+  position: absolute;
+  width: 350px;
+  height: 250px;
+  top: 140px;
+  left: 760px;
+}
+
+.my-website .overlay4 {
+  position: relative;
+  width: 388px;
+  height: 288px;
+  top: -4px;
+  /* left: -19px; */
+  background-image: url(/assets/images/rectangle-copy4.svg);
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
